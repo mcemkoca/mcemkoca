@@ -229,11 +229,11 @@ motto: "Building the quantum-resistant future, one commit at a time."
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-| 🛡️ **QSCG** - Quantum-Safe Cryptography GitHub Repository | 💙 **familyhub** - Cross-Platform Mobile App |
+| 🛡️ **QSCG** — Quantum-Safe Cryptography (v3.1.0) | 💙 **familyhub** — Cross-Platform Mobile App |
 |:---:|:---:|
-| <a href="https://github.com/mcemkoca/QSCG"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mcemkoca&repo=QSCG&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&description_lines_count=2" alt="QSCG"/></a> | <a href="https://github.com/mcemkoca/familyhub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mcemkoca&repo=familyhub&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&description_lines_count=2" alt="familyhub"/></a> |
-| 🔐 NIST FIPS 203/204/205 PQC Standards | 📱 Flutter / Dart |
-| ML-KEM / ML-DSA / SLH-DSA Implementations | Cross-Platform Family Organizer |
+| <a href="https://github.com/mcemkoca/qscg"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mcemkoca&repo=qscg&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&description_lines_count=2" alt="QSCG"/></a> | <a href="https://github.com/mcemkoca/familyhub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mcemkoca&repo=familyhub&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&description_lines_count=2" alt="familyhub"/></a> |
+| 🔐 NIST FIPS 203/204/205 + ⚛️ Quantum Tunneling | 📱 Flutter / Dart |
+| ML-KEM · ML-DSA · SLH-DSA · QRNG · QKD BB84 | Cross-Platform Family Organizer |
 
 </div>
 
@@ -290,7 +290,8 @@ motto: "Building the quantum-resistant future, one commit at a time."
 │  └──────────────┘  └──────────────┘  └──────────────┘              │
 │                                                                     │
 │  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
-│  Research Focus: Lattice-based Cryptography & Quantum Resistance   │
+│  Research Focus: Lattice-based Crypto · Quantum Computing · QKD    │
+│  Status: v3.1.0 — pip installable · IBM Quantum ready · 12K lines │
 │  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
 └─────────────────────────────────────────────────────────────────────┘
 ```
@@ -300,6 +301,8 @@ motto: "Building the quantum-resistant future, one commit at a time."
   <img src="https://img.shields.io/badge/Kyber_(ML--KEM)-FF6B6B?style=for-the-badge&labelColor=1a1a2e&color=FF6B6B" alt="Kyber"/>
   <img src="https://img.shields.io/badge/Dilithium_(ML--DSA)-3498DB?style=for-the-badge&labelColor=1a1a2e&color=3498DB" alt="Dilithium"/>
   <img src="https://img.shields.io/badge/SPHINCS+_(SLH--DSA)-2ECC71?style=for-the-badge&labelColor=1a1a2e&color=2ECC71" alt="SPHINCS+"/>
+  <img src="https://img.shields.io/badge/Quantum_Computing-9B59B6?style=for-the-badge&logo=ibm&logoColor=ffffff&labelColor=1a1a2e&color=9B59B6" alt="Quantum Computing"/>
+  <img src="https://img.shields.io/badge/QKD_BB84-E74C3C?style=for-the-badge&labelColor=1a1a2e&color=E74C3C" alt="QKD BB84"/>
   <img src="https://img.shields.io/badge/Quantum_Resistance-E74C3C?style=for-the-badge&labelColor=1a1a2e&color=E74C3C" alt="Quantum Resistance"/>
 </div>
 
