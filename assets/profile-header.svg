@@ -1,0 +1,58 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.5" stop-color="#0B1C2F"/>
+      <stop offset="1" stop-color="#11132B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="120" y1="0" x2="1010" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00D4AA"/>
+      <stop offset="0.55" stop-color="#2F81F7"/>
+      <stop offset="1" stop-color="#A371F7"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1020 70) rotate(143.13) scale(420 250)">
+      <stop stop-color="#2F81F7" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#2F81F7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(180 300) rotate(-27.9) scale(430 240)">
+      <stop stop-color="#00D4AA" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#00D4AA" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#glowA)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#glowB)"/>
+
+  <g opacity="0.12" stroke="#79C0FF">
+    <path d="M0 64H1200M0 128H1200M0 192H1200M0 256H1200"/>
+    <path d="M80 0V320M160 0V320M240 0V320M320 0V320M400 0V320M480 0V320M560 0V320M640 0V320M720 0V320M800 0V320M880 0V320M960 0V320M1040 0V320M1120 0V320"/>
+  </g>
+
+  <g opacity="0.7">
+    <circle cx="1010" cy="112" r="72" stroke="url(#accent)" stroke-width="2"/>
+    <circle cx="1010" cy="112" r="48" stroke="#2F81F7" stroke-opacity="0.55"/>
+    <circle cx="1010" cy="112" r="18" fill="#00D4AA" fill-opacity="0.2" stroke="#00D4AA"/>
+    <path d="M938 112H886V76H840" stroke="#00D4AA" stroke-width="2"/>
+    <path d="M1082 112H1136V154H1170" stroke="#A371F7" stroke-width="2"/>
+    <path d="M1010 40V18H1054" stroke="#2F81F7" stroke-width="2"/>
+    <path d="M1010 184V216H962V258H902" stroke="#79C0FF" stroke-width="2"/>
+    <circle cx="840" cy="76" r="5" fill="#00D4AA"/>
+    <circle cx="1170" cy="154" r="5" fill="#A371F7"/>
+    <circle cx="1054" cy="18" r="5" fill="#2F81F7"/>
+    <circle cx="902" cy="258" r="5" fill="#79C0FF"/>
+  </g>
+
+  <rect x="70" y="54" width="7" height="208" rx="3.5" fill="url(#accent)"/>
+
+  <text x="112" y="112" fill="#F0F6FC" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="1">M. CEM KOCA</text>
+  <text x="114" y="151" fill="#00D4AA" font-family="Consolas, Menlo, monospace" font-size="20" font-weight="600">{ DEUTERIUM12 }</text>
+  <text x="112" y="204" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Software Developer · Data Platforms · AI Systems · Security</text>
+  <text x="112" y="243" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="17">SQL Server · .NET · Python · MCP · SaaS · Post-Quantum Cryptography</text>
+
+  <rect x="112" y="272" width="520" height="3" rx="1.5" fill="url(#accent)"/>
+  <circle cx="648" cy="273.5" r="4.5" fill="#A371F7" filter="url(#soft)"/>
+</svg>
