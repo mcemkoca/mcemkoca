@@ -1,14 +1,12 @@
 <!-- GitHub profile README for mcemkoca -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mcemkoca/mcemkoca/main/profile-banner.png" width="100%" alt="M. Cem Koca — Software Engineering, Data Platforms and Security"/>
+  <img src="https://raw.githubusercontent.com/mcemkoca/mcemkoca/main/assets/profile-header.svg" width="100%" alt="M. Cem Koca — Software Developer, Data Platforms, AI Systems and Security"/>
 </div>
-
-<h1 align="center">M. Cem Koca <code>{Deuterium12}</code></h1>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00D4AA&center=true&vCenter=true&width=900&lines=Software+Developer+%26+Systems+Builder;SQL+Server+%26+.NET+Platform+Engineering;AI-Assisted+Development+%26+Automation;Post-Quantum+Cryptography;SaaS+%26+Cross-Platform+Product+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00D4AA&center=true&vCenter=true&width=900&lines=Software+Developer+%26+Systems+Builder;SQL+Server+%26+.NET+Platform+Engineering;AI-Assisted+Development+%26+Automation;SaaS+%26+Cross-Platform+Product+Development;Post-Quantum+Cryptography)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=mcemkoca&color=00D4AA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 <a href="https://github.com/mcemkoca?tab=followers"><img src="https://img.shields.io/github/followers/mcemkoca?style=for-the-badge&logo=github&color=00D4AA&labelColor=0d1117" alt="Followers"/></a>
@@ -18,73 +16,66 @@
 
 ---
 
-## About
+## Profile
 
 ```yaml
 name: M. Cem Koca
 alias: Deuterium12
-base: Belgium
+location: Belgium
 role: Software Developer & Systems Builder
 
-current_focus:
+focus:
   - SQL Server-first enterprise platforms
   - .NET 8 APIs, MCP tooling and automation
   - Multi-tenant SaaS architecture
   - AI-assisted engineering workflows
   - Post-quantum cryptography
 
-engineering_style:
+principles:
   - Security and privacy by design
   - Database contracts before UI assumptions
-  - Automation, validation and evidence-driven delivery
+  - Automation and validation over manual repetition
   - Maintainable systems over temporary demos
 ```
 
-I build systems that connect **data, automation, security and product engineering**. My current work is concentrated on enterprise SQL Server workflows, .NET services, MCP-based operational tooling, CI quality gates and production-readiness controls.
+I design and develop systems that connect **data platforms, automation, security and product engineering**. My recent work covers SQL Server operational workflows, .NET services, MCP tooling, CI quality gates, release controls and cross-platform SaaS products.
 
 ---
 
-## Current Engineering Focus
+## Primary Project
 
-### [Yafes Pars](https://github.com/mcemkoca/Yafes_Pars) — Insurance Operations Platform
+### [Yafes Pars](https://github.com/mcemkoca/Yafes_Pars)
 
-A SQL Server 2022-first, multi-tenant insurance and brokerage platform with an SSMS operator workbench, .NET 8 services, MCP tools, auditable workflows and Azure-oriented deployment architecture.
+**SQL Server-first insurance operations and brokerage platform**
+
+SQL Server 2022 · T-SQL · .NET 8 · Dapper · MCP · Azure · Docker · PowerShell
 
 <p>
-  <a href="https://github.com/mcemkoca/Yafes_Pars/actions"><img src="https://img.shields.io/github/actions/workflow/status/mcemkoca/Yafes_Pars/backend-build.yml?branch=main&style=flat-square&logo=githubactions&label=Backend%20Build" alt="Yafes Pars backend build"/></a>
+  <a href="https://github.com/mcemkoca/Yafes_Pars/actions/workflows/backend-build.yml"><img src="https://img.shields.io/github/actions/workflow/status/mcemkoca/Yafes_Pars/backend-build.yml?branch=main&style=flat-square&logo=githubactions&label=Backend%20Build" alt="Yafes Pars backend build"/></a>
   <img src="https://img.shields.io/github/last-commit/mcemkoca/Yafes_Pars?style=flat-square&logo=git&label=Last%20Commit" alt="Yafes Pars last commit"/>
   <img src="https://img.shields.io/github/commit-activity/m/mcemkoca/Yafes_Pars?style=flat-square&logo=github&label=Monthly%20Commits" alt="Yafes Pars monthly commits"/>
   <img src="https://img.shields.io/github/repo-size/mcemkoca/Yafes_Pars?style=flat-square&logo=github&label=Repository" alt="Yafes Pars repository size"/>
 </p>
 
-**Recent contribution themes**
+Yafes Pars combines an SSMS operator workbench, multi-tenant insurance domains, stored-procedure workflows, .NET services, MCP tools, audit controls and production-readiness documentation.
 
-- Closed MCP coverage gaps across assurance, coverage, finance, administration, import and renewal workflows.
-- Expanded the SSMS data-entry bridge with validation-first operational actions.
-- Added export lifecycle tracking, migration-ledger corrections and manifest contract fixes.
-- Hardened SQL Agent setup, tenant isolation, permission drift and compliance scanning paths.
-- Added TEST/PROD evidence templates, access-review plans, restore-drill plans and release-readiness documentation.
-- Removed exposed personal-data artifacts and strengthened GDPR-oriented repository hygiene.
+**Recent work includes:**
 
-[Review recent pull requests →](https://github.com/mcemkoca/Yafes_Pars/pulls?q=is%3Apr+author%3Amcemkoca+sort%3Aupdated-desc)
+- Closing MCP coverage gaps across assurance, finance, administration, import, renewal and coverage workflows.
+- Expanding SSMS bridge actions with validation-first operational paths.
+- Adding export lifecycle tracking and correcting migration-ledger gaps.
+- Hardening SQL Agent setup, tenant isolation and compliance scanning.
+- Building access-review, restore-drill and TEST/PROD evidence packages.
+- Cleaning exposed personal-data artifacts and improving GDPR-oriented repository hygiene.
+
+[Repository](https://github.com/mcemkoca/Yafes_Pars) · [Recent pull requests](https://github.com/mcemkoca/Yafes_Pars/pulls?q=is%3Apr+author%3Amcemkoca+sort%3Aupdated-desc)
 
 ---
 
-## Selected Projects
+## Selected Portfolio
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### [Yafes Pars](https://github.com/mcemkoca/Yafes_Pars)
-
-**Enterprise insurance operations**
-
-SQL Server 2022 · .NET 8 · Dapper · MCP · Azure · Docker · PowerShell
-
-SSMS-first workflows, multi-tenant data boundaries, policy/claim/finance operations, auditability and production-readiness controls.
-
-</td>
 <td width="50%" valign="top">
 
 ### [QSCG](https://github.com/mcemkoca/qscg)
@@ -93,22 +84,22 @@ SSMS-first workflows, multi-tenant data boundaries, policy/claim/finance operati
 
 Python · ML-KEM · ML-DSA · SLH-DSA · AES-256-GCM · IBM Quantum
 
-Implementations and tooling around NIST FIPS 203, 204 and 205, hybrid encryption, QRNG and QKD experimentation.
+Research-oriented implementations and tooling around NIST post-quantum standards, hybrid encryption, QRNG and QKD experimentation.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [FamilyHub](https://github.com/mcemkoca/familyhub)
 
-**Cross-platform family management app**
+**Cross-platform family management application**
 
 Flutter · Dart · Riverpod · GoRouter · Material 3
 
-Family organisation, tasks, calendar, budget, messaging, profiles, emergency features and shared household workflows.
+Shared household workflows for tasks, calendar, budget, profiles, messaging and emergency features.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [KobiPro v2](https://github.com/mcemkoca/kobipro-v2)
@@ -117,7 +108,18 @@ Family organisation, tasks, calendar, budget, messaging, profiles, emergency fea
 
 Next.js 15 · TypeScript · Turborepo · PostgreSQL · Prisma · Tailwind CSS
 
-A modular small-business platform designed to support sector products from a shared architecture.
+A modular architecture for delivering multiple small-business products from a shared codebase.
+
+</td>
+<td width="50%" valign="top">
+
+### [WinDevTweak](https://github.com/mcemkoca/WinDevTweak)
+
+**Windows development environment automation**
+
+PowerShell · Windows · Developer tooling
+
+Utilities for repeatable Windows workstation configuration and developer-environment tuning.
 
 </td>
 </tr>
@@ -164,7 +166,7 @@ A modular small-business platform designed to support sector products from a sha
 
 ---
 
-## GitHub Analytics
+## GitHub Activity
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=mcemkoca&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&ring_color=00D4AA&include_all_commits=true" alt="GitHub statistics"/>
@@ -174,14 +176,6 @@ A modular small-business platform designed to support sector products from a sha
 <div align="center">
   <img width="90%" src="https://streak-stats.demolab.com?user=mcemkoca&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4AA&ring=00D4AA&fire=FF6B6B&currStreakNum=00D4AA&sideNums=00D4AA&currStreakLabel=00D4AA&sideLabels=c9d1d9&dates=8b949e" alt="Contribution streak"/>
 </div>
-
-<div align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=mcemkoca&theme=onestar&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" alt="GitHub trophies"/>
-</div>
-
----
-
-## Contribution Activity
 
 <div align="center">
   <picture>
@@ -197,7 +191,7 @@ A modular small-business platform designed to support sector products from a sha
 
 ---
 
-## Contact & Collaboration
+## Contact
 
 <div align="center">
   <a href="mailto:mcemkoca0@gmail.com"><img src="https://img.shields.io/badge/Email-mcemkoca0%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/></a>
@@ -206,12 +200,12 @@ A modular small-business platform designed to support sector products from a sha
 </div>
 
 <div align="center">
-  <sub>Open to technically serious collaboration in data platforms, secure systems, AI-assisted engineering and product architecture.</sub>
+  <sub>Open to serious collaboration in data platforms, secure systems, AI-assisted engineering and product architecture.</sub>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:9B59B6&height=110&section=footer" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:9B59B6&height=105&section=footer" width="100%" alt="Footer"/>
   <sub>© 2026 M. Cem Koca · Deuterium12</sub>
 </div>
